@@ -1,0 +1,1 @@
+CTRL + SHIFT + P -> select open settings (JSON) -> add "editor.formatOnSave": true
